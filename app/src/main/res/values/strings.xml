@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculos</string>
+    <string name="instrucao">Calcule o quadrado, cubo ou raiz:</string>
+    <string name="dicaCampo">Digite um valor:</string>
+    <string name="quadrado">quadrado</string>
+    <string name="cubo">cubo</string>
+    <string name="raiz">raíz</string>
+    <string name="resultado">Resultado</string>
+    <string name="limpar">Limpar</string>
+</resources>
